@@ -26,6 +26,7 @@ public class ArraysinJava {
 			for(int r:a)
 			{
 			System.out.println(r);
+				System.out.println("Updatedfile")
 			
 			}
 
